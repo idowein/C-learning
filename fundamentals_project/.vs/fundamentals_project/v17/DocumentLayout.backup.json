@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\idowe\\source\\repos\\C-learning\\fundamentals_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0D3750-419E-47FD-B166-642F3A109978}|fundamentals_project\\fundamentals_project.vcxproj|C:\\Users\\idowe\\source\\repos\\C-learning\\fundamentals_project\\fundamentals_project\\hello_world_prompt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD0D3750-419E-47FD-B166-642F3A109978}|fundamentals_project\\fundamentals_project.vcxproj|solutionrelative:fundamentals_project\\hello_world_prompt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello_world_prompt.c",
+              "DocumentMoniker": "C:\\Users\\idowe\\source\\repos\\C-learning\\fundamentals_project\\fundamentals_project\\hello_world_prompt.c",
+              "RelativeDocumentMoniker": "fundamentals_project\\hello_world_prompt.c",
+              "ToolTip": "C:\\Users\\idowe\\source\\repos\\C-learning\\fundamentals_project\\fundamentals_project\\hello_world_prompt.c*",
+              "RelativeToolTip": "fundamentals_project\\hello_world_prompt.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T15:59:29.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
